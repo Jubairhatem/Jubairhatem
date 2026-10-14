@@ -1,7 +1,7 @@
 # Hi there! it's me Jubair Hatem 
 
 # 💫 About Me:
-Student at programming hero | learner MERN stack technology|
+### Student at programming hero | learner MERN stack technology|
 
 
 # 💻 Tech Stack:
